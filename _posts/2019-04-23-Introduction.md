@@ -33,7 +33,7 @@ tags:
   <p><b>사용기술</b></p>
   <p>- OpenCV, PyQt, Azure Computer Vision API, Google Tesseract, Numpy, Python Image Library(PIL), SQLite</p>
   <p><b>프로젝트 내 역할</b></p>
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:none;margin:0px;padding:0px;">
   <li>- 이미지화된 도면 내에서 검출할 심볼 생성 및 수정할 수 있는 편집도구 개발</li>
   <li>- 이미지화된 도면 내에서 등록한 심볼을 OpenCV를 이용하여 검출</li>
   <li>- 이미지화된 도면 내에서 Azure Computer Vision API 및 Google Tesseract를 이용하여 텍스트 검출</li>
@@ -42,7 +42,7 @@ tags:
 </div>
 
 ### 2. 모꼬지 Moccozy
-<div style="font-size:0.75me;">
+<div style="font-size:0.75em;">
   <p>스터디, 취미를 중개하는 서비스</p>
   <p><b>개발환경</b></p>
   <p>- Android 4.1 ~ 7.0, Android Studio 2.X ~ 3.0</p>
@@ -55,7 +55,7 @@ tags:
   <p>- Facebook Login API, Kakao Link API</p>
   <p>- I'mport, Spyglass</p>
   <p><b>프로젝트 내 역할</b></p>
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:none;margin:0px;padding:0px;">
     <li>- 모꼬지 안드로이드 앱 서비스 UI 및 기능 전담 개발</li>
     <li>- 모꼬지 리뷰, 접속자 및 부적절한 게시물 관리</li>
     <li>- 모꼬지 관련 컨텐츠 제작 및 관리</li>
