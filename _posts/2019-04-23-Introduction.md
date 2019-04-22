@@ -13,11 +13,11 @@ tags:
 ## Skills
 <div style="font-size:0.75em;">
   <b>Language</b><br/>
-  - Java, Kotlin, Python, Javascript(Node.js)
+  <p>- Java, Kotlin, Python, Javascript(Node.js)</p>
   <b>Database</b> <br/>
-  - SQLite, MongoDB
+  <p>- SQLite, MongoDB</p>
   <b>ETC</b> <br/>
-  - Git, SVN
+  <p>- Git, SVN</p>
 </div>
 
 ## Projects
@@ -25,18 +25,18 @@ tags:
 <div style="font-size:0.75em;">
 이미지화된 도면 내에서 설비를 나타내는 심볼, 텍스트 및 라인 등을 검출하여 P&ID 데이터 포맷으로 변환
   <b>개발환경</b> <br/>
-  - Python 3.6, PyQt5, Visual Studio 2017 Community
+  <p>- Python 3.6, PyQt5, Visual Studio 2017 Community</p>
   <b>개발기간</b> <br/>
-  - 2017.12 ~ 2018.06
+  <p>- 2017.12 ~ 2018.06</p>
   <b>프로젝트 타입</b> <br/>
-  - Prototype
+  <p>- Prototype</p>
   <b>사용기술</b> <br/>
-  - OpenCV, PyQt, Azure Computer Vision API, Google Tesseract, Numpy, Python Image Library(PIL), SQLite
+  <p>- OpenCV, PyQt, Azure Computer Vision API, Google Tesseract, Numpy, Python Image Library(PIL), SQLite</p>
   <b>프로젝트 내 역할</b> <br/>
-  - 이미지화된 도면 내에서 검출할 심볼 생성 및 수정할 수 있는 편집도구 개발
-  - 이미지화된 도면 내에서 등록한 심볼을 OpenCV를 이용하여 검출
-  - 이미지화된 도면 내에서 Azure Computer Vision API 및 Google Tesseract를 이용하여 텍스트 검출
-  - 검출된 데이터를 중간파일(XML 포맷)로 변환
+  <p>- 이미지화된 도면 내에서 검출할 심볼 생성 및 수정할 수 있는 편집도구 개발</p>
+  <p>- 이미지화된 도면 내에서 등록한 심볼을 OpenCV를 이용하여 검출</p>
+  <p>- 이미지화된 도면 내에서 Azure Computer Vision API 및 Google Tesseract를 이용하여 텍스트 검출</p>
+  <p>- 검출된 데이터를 중간파일(XML 포맷)로 변환</p>
 </div>
 
 ### 2. 모꼬지 Moccozy
