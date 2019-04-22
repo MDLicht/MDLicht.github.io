@@ -23,7 +23,7 @@ tags:
 ## Projects
 ### 1. Image To Intelligent P&ID
 <div style="font-size:0.75em;">
-이미지화된 도면 내에서 설비를 나타내는 심볼, 텍스트 및 라인 등을 검출하여 P&ID 데이터 포맷으로 변환
+  <p>이미지화된 도면 내에서 설비를 나타내는 심볼, 텍스트 및 라인 등을 검출하여 P&ID 데이터 포맷으로 변환</p>
   <p><b>개발환경</b></p>
   <p>- Python 3.6, PyQt5, Visual Studio 2017 Community</p>
   <p><b>개발기간</b></p>
@@ -33,28 +33,34 @@ tags:
   <p><b>사용기술</b></p>
   <p>- OpenCV, PyQt, Azure Computer Vision API, Google Tesseract, Numpy, Python Image Library(PIL), SQLite</p>
   <p><b>프로젝트 내 역할</b></p>
-  <p>- 이미지화된 도면 내에서 검출할 심볼 생성 및 수정할 수 있는 편집도구 개발</p>
-  <p>- 이미지화된 도면 내에서 등록한 심볼을 OpenCV를 이용하여 검출</p>
-  <p>- 이미지화된 도면 내에서 Azure Computer Vision API 및 Google Tesseract를 이용하여 텍스트 검출</p>
-  <p>- 검출된 데이터를 중간파일(XML 포맷)로 변환</p>
+  <ul style="list-style-type:none;">
+  <li>- 이미지화된 도면 내에서 검출할 심볼 생성 및 수정할 수 있는 편집도구 개발</li>
+  <li>- 이미지화된 도면 내에서 등록한 심볼을 OpenCV를 이용하여 검출</li>
+  <li>- 이미지화된 도면 내에서 Azure Computer Vision API 및 Google Tesseract를 이용하여 텍스트 검출</li>
+  <li>- 검출된 데이터를 중간파일(XML 포맷)로 변환</li>
+  </ul>
 </div>
 
 ### 2. 모꼬지 Moccozy
-스터디, 취미를 중개하는 서비스
-* 개발환경 <br/>
--- Android 4.1 ~ 7.0, Android Studio 2.X ~ 3.0
-* 개발 및 서비스 기간 <br/>
--- 2016.05 ~ 2018.06
-* 프로젝트 타입 <br/>
--- 정식 서비스 (Web, Android, iOS)
-* 사용기술 <br/>
--- Android Design Support Library, Retrofit2, Glide, Google Firebase(Crash Report, Remote Config), Google map, GPS, FCM
--- Facebook Login API, Kakao Link API
--- I'mport, Spyglass
-* 프로젝트 내 역할 <br/>
--- 모꼬지 안드로이드 앱 서비스 UI 및 기능 전담 개발
--- 모꼬지 리뷰, 접속자 및 부적절한 게시물 관리
--- 모꼬지 관련 컨텐츠 제작 및 관리
+<div style="font-size:0.75me;">
+  <p>스터디, 취미를 중개하는 서비스</p>
+  <p><b>개발환경</b></p>
+  <p>- Android 4.1 ~ 7.0, Android Studio 2.X ~ 3.0</p>
+  <p><b>개발 및 서비스 기간</b></p>
+  <p>- 2016.05 ~ 2018.06</p>
+  <p><b>프로젝트 타입</b></p>
+  <p>- 정식 서비스 (Web, Android, iOS)</p>
+  <p><b>사용기술</b></p>
+  <p>- Android Design Support Library, Retrofit2, Glide, Google Firebase(Crash Report, Remote Config), Google map, GPS, FCM</p>
+  <p>- Facebook Login API, Kakao Link API</p>
+  <p>- I'mport, Spyglass</p>
+  <p><b>프로젝트 내 역할</b></p>
+  <ul style="list-style-type:none;">
+    <li>- 모꼬지 안드로이드 앱 서비스 UI 및 기능 전담 개발</li>
+    <li>- 모꼬지 리뷰, 접속자 및 부적절한 게시물 관리</li>
+    <li>- 모꼬지 관련 컨텐츠 제작 및 관리</li>
+  </ul>
+</div>
 
 ### 3. 핑거앤 FingerN
 당뇨 관리를 위한 챗봇 형태의 안드로이드 안드로이드 앱 서비스
