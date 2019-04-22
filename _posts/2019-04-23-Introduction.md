@@ -12,30 +12,30 @@ tags:
 ---
 ## Skills
 * Language
-  * Java, Kotlin, Python, Javascript(Node.js)
+  Java, Kotlin, Python, Javascript(Node.js)
 * Database
-  * SQLite, MongoDB
+  SQLite, MongoDB
 * ETC
-  * Git, SVN
+  Git, SVN
 
 ## Projects
-1. Image To Intelligent P&ID
-- 이미지화된 도면 내에서 설비를 나타내는 심볼, 텍스트 및 라인 등을 검출하여 P&ID 데이터 포맷으로 변환
+### 1. Image To Intelligent P&ID
+'-' 이미지화된 도면 내에서 설비를 나타내는 심볼, 텍스트 및 라인 등을 검출하여 P&ID 데이터 포맷으로 변환
 * 개발환경
-- Python 3.6, PyQt5, Visual Studio 2017 Community
+  Python 3.6, PyQt5, Visual Studio 2017 Community
 * 개발기간
-- 2017.12 ~ 2018.06
+  2017.12 ~ 2018.06
 * 프로젝트 타입
-- Prototype
+  Prototype
 * 사용기술
-- OpenCV, PyQt, Azure Computer Vision API, Google Tesseract, Numpy, Python Image Library(PIL), SQLite
+  OpenCV, PyQt, Azure Computer Vision API, Google Tesseract, Numpy, Python Image Library(PIL), SQLite
 * 프로젝트 내 역할
-- 이미지화된 도면 내에서 검출할 심볼 생성 및 수정할 수 있는 편집도구 개발
-- 이미지화된 도면 내에서 등록한 심볼을 OpenCV를 이용하여 검출
-- 이미지화된 도면 내에서 Azure Computer Vision API 및 Google Tesseract를 이용하여 텍스트 검출
-- 검출된 데이터를 중간파일(XML 포맷)로 변환
+  이미지화된 도면 내에서 검출할 심볼 생성 및 수정할 수 있는 편집도구 개발
+  이미지화된 도면 내에서 등록한 심볼을 OpenCV를 이용하여 검출
+  이미지화된 도면 내에서 Azure Computer Vision API 및 Google Tesseract를 이용하여 텍스트 검출
+  검출된 데이터를 중간파일(XML 포맷)로 변환
 
-2. 모꼬지 Moccozy
+### 2. 모꼬지 Moccozy
 - 스터디, 취미를 중개하는 서비스
 * 개발환경
 - Android 4.1 ~ 7.0, Android Studio 2.X ~ 3.0
@@ -52,7 +52,7 @@ tags:
 - 모꼬지 리뷰, 접속자 및 부적절한 게시물 관리
 - 모꼬지 관련 컨텐츠 제작 및 관리
 
-3. 핑거앤 FingerN
+### 3. 핑거앤 FingerN
 - 당뇨 관리를 위한 챗봇 형태의 안드로이드 안드로이드 앱 서비스
 * 개발환경
 - Android 4.1 ~ 5.1, Android Studio 1.3
@@ -65,7 +65,7 @@ tags:
 * 프로젝트 내 역할
 - 안드로이드 UI 및 기능 구현 (타임라인, 혈당 입력 등)
 
-4. PHR
+### 4. PHR
 - 병원과 연계하여 환자별 개인화된 의료 서비스를 제공하기 위한 안드로이드 앱 서비스
 * 개발환경
 - Android 4.1 ~ 5.1, Android Studio 1.3
@@ -78,7 +78,7 @@ tags:
 * 프로젝트 내 역할
 - 안드로이드 UI 및 기능 구현
 
-5. DM INSIGHT
+### 5. DM INSIGHT
 - 당뇨병 투약 정보를 바탕으로 앞으로 투약할 약물 성분에 따른 혈당 수치 변화 기댓값을 확인할 수 있는 iOS 앱 서비스
 * 개발환경
 - iOS 7.0, Xcode 5.0
@@ -91,7 +91,7 @@ tags:
 * 프로젝트 내 역할
 - iOS UI 및 기능 구현
 
-6. 꼬르륵
+### 6. 꼬르륵
 - 남아있는 재료를 이용하여 만들 수 있는 요리를 추천하는 안드로이드 앱 서비스
 * 개발환경
 - Android 2.3 ~ 4.0, Eclipse Juno
