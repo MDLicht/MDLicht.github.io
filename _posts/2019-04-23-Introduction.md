@@ -11,11 +11,11 @@ tags:
   - Git
 ---
 ## Skills
-* Language
+* Language <br/>
   -- Java, Kotlin, Python, Javascript(Node.js)
-* Database
+* Database <br/>
   -- SQLite, MongoDB
-* ETC
+* ETC <br/>
   -- Git, SVN
 
 ## Projects
