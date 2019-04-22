@@ -22,18 +22,18 @@ tags:
 ### 1. Image To Intelligent P&ID
 '-' 이미지화된 도면 내에서 설비를 나타내는 심볼, 텍스트 및 라인 등을 검출하여 P&ID 데이터 포맷으로 변환
 * 개발환경
-  Python 3.6, PyQt5, Visual Studio 2017 Community
+  -Python 3.6, PyQt5, Visual Studio 2017 Community
 * 개발기간
-  2017.12 ~ 2018.06
+  -2017.12 ~ 2018.06
 * 프로젝트 타입
-  Prototype
+  -Prototype
 * 사용기술
-  OpenCV, PyQt, Azure Computer Vision API, Google Tesseract, Numpy, Python Image Library(PIL), SQLite
+  -OpenCV, PyQt, Azure Computer Vision API, Google Tesseract, Numpy, Python Image Library(PIL), SQLite
 * 프로젝트 내 역할
-  이미지화된 도면 내에서 검출할 심볼 생성 및 수정할 수 있는 편집도구 개발
-  이미지화된 도면 내에서 등록한 심볼을 OpenCV를 이용하여 검출
-  이미지화된 도면 내에서 Azure Computer Vision API 및 Google Tesseract를 이용하여 텍스트 검출
-  검출된 데이터를 중간파일(XML 포맷)로 변환
+  -이미지화된 도면 내에서 검출할 심볼 생성 및 수정할 수 있는 편집도구 개발
+  -이미지화된 도면 내에서 등록한 심볼을 OpenCV를 이용하여 검출
+  -이미지화된 도면 내에서 Azure Computer Vision API 및 Google Tesseract를 이용하여 텍스트 검출
+  -검출된 데이터를 중간파일(XML 포맷)로 변환
 
 ### 2. 모꼬지 Moccozy
 - 스터디, 취미를 중개하는 서비스
